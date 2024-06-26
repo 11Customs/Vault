@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Vault',
   tagline: 'test test test',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/vault.ico',
 
   // Set the production url of your site here
   url: 'https://vault.11customs.com',
