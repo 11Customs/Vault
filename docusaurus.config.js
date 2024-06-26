@@ -139,4 +139,13 @@ const config = {
     }),
 };
 
-export default config;
+export default {
+  themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
+  },
+};
+/* export default config; */
