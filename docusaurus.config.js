@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Vault',
-  tagline: 'test test test',
+  tagline: 'Your Curiosities Database',
   favicon: 'img/vault.ico',
 
   // Set the production url of your site here
