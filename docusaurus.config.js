@@ -62,9 +62,11 @@ const config = {
   ],
 
   themeConfig:
+
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Vault',
@@ -136,16 +138,13 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
     }),
 };
 
-export default {
-  themeConfig: {
-    colorMode: {
-      defaultMode: 'dark',
-      disableSwitch: true,
-      respectPrefersColorScheme: false,
-    },
-  },
-};
-/* export default config; */
+
+export default config;
