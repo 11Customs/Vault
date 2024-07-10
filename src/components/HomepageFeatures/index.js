@@ -4,12 +4,12 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Knowledge Accumulated',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The preservation of knowledge is an important task that we as humans face, therefore this website. 
+        You can read more about the project here.
       </>
     ),
   },
