@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
         The preservation of knowledge is an important task that we as humans face, therefore this website. 
-        You can read more about the project here.
+        You can read more about the project here..
       </>
     ),
   },
