@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Knowledge Accumulated',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/vault_main_page.png').default,
     description: (
       <>
         The preservation of knowledge is an important task that we as humans face, therefore this website. 
