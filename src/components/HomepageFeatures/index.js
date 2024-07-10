@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Community Effort',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/community.svg').default,
     description: (
       <>
         We welcome any of your additions to The Vault. For the upload requirements visit this page.
