@@ -105,20 +105,16 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Our socials',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/4kmXxtA6mC',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+                label: 'Shop',
+                href: 'https://11customs.com'
+              }
             ],
           },
           {
