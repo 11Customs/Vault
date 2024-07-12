@@ -28,7 +28,7 @@ const FeatureList = [
     description: (
       <>
         As usual most of our software and hardware prjects are opensourced.
-        You can find the code for the Vault here.
+        You can find the code for the Vault <a href="https://github.com/11Customs/Vault">here</a>.
       </>
     ),
   },
