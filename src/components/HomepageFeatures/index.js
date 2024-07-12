@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Open Source',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/opensource.svg').default,
     description: (
       <>
         As usual most of our software and hardware prjects are opensourced.
