@@ -96,12 +96,16 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Content',
             items: [
               {
-                label: 'Tutorial',
+                label: 'DataBase',
                 to: '/docs/intro',
               },
+              {
+                label: 'Blog',
+                to: '/blog'
+              }
             ],
           },
           {
