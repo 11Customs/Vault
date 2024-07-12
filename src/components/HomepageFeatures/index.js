@@ -23,12 +23,12 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Open Source',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        As usual most of our software and hardware prjects are opensourced.
+        You can find the code for the Vault here.
       </>
     ),
   },
