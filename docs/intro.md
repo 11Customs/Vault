@@ -2,46 +2,15 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Who are we. 
 
-Let's discover **Docusaurus in less than 5 minutes**.
+_The contents of this Doc may change over time!_
 
-## Getting Started
+## The intro.
+11customs is essentially a traveling merchant, started and founded by MLGFoxy and GAN!A. Due to the fact that we were born in CIS, 11customs moves from time to time. As of <code> 07-08-24 </code> 11customs is physically situated in Yerevan, Armenia. Most of the time the physical inventory is situated wherever I (GAN!A) am. Since I am from russia and MLGFoxy is from Ukraine, the location of the shop is subject to change. Don't worry we will let you know in advance when the physical location will be mooving.
 
-Get started by **creating a new site**.
+## What we do.
+We just sell shit we like for the most part, we also do our own shit sometimes. We try to keep most of the things on the shop open source where it is possible. You can check out our projets [here](./projects). We also post in-depth blog posts about goings on with the shop in the [Blog](/blog) section. Most of the products will be oriented around keyboards and HID devices eventually, for now we released the Mousepads since we promised some friends to do so. 
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## Whats the story.
+11Customs officially began it's existance sometime in 2020, back then it was a custom keyboard atelier. Unfortunately back then I lived in moscow, and let's just say the russian audience doesn't score high points in IQ and money departments. Fast forward to 2023 we decided to transform 11customs into somewhat of a "random shit" shop. And that where we are so far.
