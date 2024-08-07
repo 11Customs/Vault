@@ -14,3 +14,7 @@ We just sell shit we like for the most part, we also make our own shit sometimes
 
 ## What's the story
 11Customs officially began it's existence sometime in 2020, back then it was a custom keyboard atelier. Unfortunately back then I lived in moscow, and let's just say the russian audience doesn't score high points in IQ and money departments. Fast forward to 2023 we decided to transform 11customs into somewhat of a "random shit" shop. And that's where we are so far.
+
+## The plan
+We'll see to be honest. As I said before, 11customs is basically a traveling merchant of stuff we like. People may change, countries may change, inventory may change, even the design may change. But the idea will always be here. 
+**Your purveyor of curiosities will always be here!**
