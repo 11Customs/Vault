@@ -1,8 +1,8 @@
 ---
 slug: AMDfinetuning
-title: Fine tuning my R9 7900.
+title: Fine tuning my R9 7900
 authors: [gan1a]
-tags: []
+tags: [personal]
 ---
 
 Under construction

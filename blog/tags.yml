@@ -1,16 +1,16 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+personal:
+  label: Personal
+  permalink: /personal
+  description: Personal blog posts
+11customs:
+  label: 11Customs
+  permalink: /11customs
+  description: Posts pertaining to 11Customs
+iq.a.s:
+  label: IQ.A.S
+  permalink: /iqas
+  description: Posts pertaining to the parent company
+scripts:
+  label: Scripts
+  permalink: /scripts
+  description: Scripts for the youtube channels
