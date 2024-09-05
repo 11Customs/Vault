@@ -6,14 +6,14 @@ tags: [personal]
 ---
 
 >Config:
->CPU: r9 7900 non x 
->GPU: 7900xtx Sapphire Pulse
->RAM: 32GB of FlareX5, 5600mhz cl30
->MB: MSI b650i edge wifi
->PSU: sf750
->Case: Dan a4H20 (used to be Fractal Terra)
->Cooling: EK Nucleus 240 (used to be NH-L12S)
->Storage: 2x 250gb 970Evo + 2tb 870Evo
+CPU: r9 7900 non x 
+GPU: 7900xtx Sapphire Pulse
+RAM: 32GB of FlareX5, 5600mhz cl30
+MB: MSI b650i edge wifi
+PSU: sf750
+Case: Dan a4H20 (used to be Fractal Terra)
+Cooling: EK Nucleus 240 (used to be NH-L12S)
+Storage: 2x 250gb 970Evo + 2tb 870Evo
 
 ## Prelude
 ##### I used to run Terra with a couple of fans and NH-L12S, temps were fine tbh. But the sound, let's just say Terra larps as Boeing 747 with two slim Noctuas and NH-L12S. So a strategical decision was made to swap to an AIO, since Terra doesn't support anything other than a 120 AIO with a small GPU, swap the case too. So the final result:
