@@ -37,14 +37,20 @@ tags: [personal]
 ## The Old Config
 
 >R23 Results: 24522-24814 pts. depending on embient temps
+>
 >Max CPU temp: 86.1°C
+>
 >Max core clocks: Not recorded unfortunately
+>
 >_Bios config:_
->PPT: 105
->TDC: 90
->EDC: 150
->Curve Optimizer: All Cores Negative
->20
+>
+>>PPT: 105
+>>
+>>TDC: 90
+>>
+>>EDC: 150
+>>
+>>Curve Optimizer: All Cores -20
 
 ![img](https://i.imgur.com/Uut0YPW.png)
 
@@ -54,7 +60,7 @@ tags: [personal]
 >Max CPU temp: 69°C _nice_
 >Max core clocks: 5250-5450 mhz. depending on the core
 >_Bios config:_
->Stock
+>>Stock
 
 ![img](https://i.imgur.com/W9vyAZA.png)
 
@@ -64,7 +70,7 @@ tags: [personal]
 >Max CPU temp: 95.4°C
 >Max core clocks: 5250-5450 mhz. depending on the core
 >_Bios config:_
->PBO MAX
+>>PBO MAX
 
 ![img](https://i.imgur.com/kW9xOJ0.png)
 
