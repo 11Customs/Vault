@@ -6,8 +6,8 @@ tags: [personal]
 ---
 
 >Config:
-CPU: r9 7900 non x 
-GPU: 7900xtx Sapphire Pulse
+CPU: r9 7900 non x <br>
+GPU: 7900xtx Sapphire Pulse <br>
 RAM: 32GB of FlareX5, 5600mhz cl30
 MB: MSI b650i edge wifi
 PSU: sf750
