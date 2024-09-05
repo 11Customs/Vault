@@ -57,9 +57,13 @@ tags: [personal]
 ## Stock CPU + EK Nucleus 
 
 >R23 Results: 25458 pts. 
+>
 >Max CPU temp: 69°C _nice_
+>
 >Max core clocks: 5250-5450 mhz. depending on the core
+>
 >_Bios config:_
+>
 >>Stock
 
 ![img](https://i.imgur.com/W9vyAZA.png)
@@ -67,9 +71,13 @@ tags: [personal]
 ## PBO MAX
 
 >R23 Results: 27211 pts.
+>
 >Max CPU temp: 95.4°C
+>
 >Max core clocks: 5250-5450 mhz. depending on the core
+>
 >_Bios config:_
+>
 >>PBO MAX
 
 ![img](https://i.imgur.com/kW9xOJ0.png)
@@ -77,8 +85,11 @@ tags: [personal]
 ## Balaced config I now run
 
 >R23 Results: 27018 pts.
+>
 >Max CPU temp: 73.8°C
+>
 >Max core clocks: 5500 mhz. all core
+>
 >_Bios config:_
 > 
 
