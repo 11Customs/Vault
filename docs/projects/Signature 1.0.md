@@ -15,7 +15,14 @@ ___
 
 `It should be noted that no matter what material the mousepad is made of, it is not recommended to wash it in a washing machine, because the strong stirring and high-temperature drying during the machine washing process may cause irreversible damage to the mousepad. Similarly, when drying, avoid direct sunlight or high-temperature baking to prevent the mousepad from deforming, fading or accelerating aging.`
 
-- Slightly dirty: 
-    - Spray an appropriate amount of detergent on the surface of the mouse pad, then wipe gently with a soft cloth or sponge until the stain is completely removed. After that, wipe the mouse pad with a clean cloth and place it in a ventilated place to dry naturally.
-- For mouse pads that are particularly dirty or difficult to clean:
-    - You can consider soaking it in warm water and washing by hand. First, put the mousepad in warm water (the water temperature should not be too high to avoid damaging the material), add a small amount of neutral detergent, and stir gently to dissolve the detergent. Then, gently rub the surface of the mousepad with your hands, and be careful not to use too much force to cause the mousepad to deform or break. After cleaning, rinse with clean water, then use a clean towel or paper towel to absorb the water, and finally dry it naturally.
+- #### Slightly dirty: 
+    - ###### Spray an appropriate amount of detergent on the surface of the mouse pad, then wipe gently with a soft cloth or sponge until the stain is completely removed. After that, wipe the mouse pad with a clean cloth and place it in a ventilated place to dry naturally.
+- #### For mouse pads that are particularly dirty or difficult to clean:
+    - ###### You can consider soaking it in warm water and washing by hand. First, put the mousepad in warm water (the water temperature should not be too high to avoid damaging the material), add a small amount of neutral detergent, and stir gently to dissolve the detergent. Then, gently rub the surface of the mousepad with your hands, and be careful not to use too much force to cause the mousepad to deform or break. After cleaning, rinse with clean water, then use a clean towel or paper towel to absorb the water, and finally dry it naturally.
+___
+
+## Reference gallery:
+
+- ### r/placeukraine 23 edition 
+
+![Imgur]( https://i.imgur.com/u1RJvWe.jpg "r/placeukraine 23 edition") ![Imgur](https://i.imgur.com/hhT8liq.jpg "r/placeukraine 23 edition") ![Imgut](https://i.imgur.com/gGRKwfO.jpg "r/placeukraine 23 edition")
