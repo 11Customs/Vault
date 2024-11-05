@@ -23,6 +23,6 @@ ___
 
 ## Reference gallery:
 
-- ### r/placeukraine 23 edition 
+- ### r/placeukraine 23 edition
 
 ![Imgur]( https://i.imgur.com/u1RJvWe.jpg "r/placeukraine 23 edition") ![Imgur](https://i.imgur.com/hhT8liq.jpg "r/placeukraine 23 edition") ![Imgut](https://i.imgur.com/gGRKwfO.jpg "r/placeukraine 23 edition")
