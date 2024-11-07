@@ -25,4 +25,10 @@ ___
 
 - ### r/placeukraine 23 edition
 
-![Imgur]( https://i.imgur.com/u1RJvWe.jpg "r/placeukraine 23 edition") ![Imgur](https://i.imgur.com/hhT8liq.jpg "r/placeukraine 23 edition") ![Imgut](https://i.imgur.com/gGRKwfO.jpg "r/placeukraine 23 edition")
+![Imgur](https://i.imgur.com/u1RJvWe.jpg "r/placeukraine 23 edition") 
+![Imgur](https://i.imgur.com/hhT8liq.jpg "r/placeukraine 23 edition") 
+![Imgut](https://i.imgur.com/gGRKwfO.jpg "r/placeukraine 23 edition")
+![Imgut](https://i.imgur.com/u1rfKN2.jpg "r/placeukraine 23 edition")
+![Imgut](https://i.imgur.com/XgO1Dxg.jpg "r/placeukraine 23 edition")
+![Imgut](https://i.imgur.com/Qt7RtAe.jpg "r/placeukraine 23 edition")
+![Imgut](https://i.imgur.com/7I6TYRY.jpg "r/placeukraine 23 edition")
