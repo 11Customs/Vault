@@ -92,5 +92,6 @@ tags: [personal]
 >
 >_Bios config:_
 > 
+>> [under construction, pls check back later]
 
 ![img](https://i.imgur.com/BfioYmW.png)
