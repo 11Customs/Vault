@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Official database for 11customs.com.<head />">
+      description="Official database for 11customs.com.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
