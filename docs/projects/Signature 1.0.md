@@ -3,7 +3,7 @@
 ![Imgur](https://i.imgur.com/gANbDda.png)
 ___
 - Size: 900x400x3
-- Edges: Stitched; Black or color of the art (depends on the edition, check the store pageor references at the end of the page here)
+- Edges: Stitched; Black or color of the art (depends on the edition, check the store page or references at the end of the page here)
 - Material: jacquard fabric, Rubber bottom
 - Designed wherever we are; made in China for now
 
