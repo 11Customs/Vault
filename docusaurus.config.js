@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'The Vault is under construction for now',
+  title: 'Vault',
   tagline: 'Your Curiosities Database',
   favicon: 'img/vault.ico',
 
