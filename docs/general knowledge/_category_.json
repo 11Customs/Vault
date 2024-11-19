@@ -1,0 +1,8 @@
+{
+    "label": "General Knowledge",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "Self-explanatory"
+    }
+  }
