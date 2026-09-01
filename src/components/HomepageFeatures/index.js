@@ -8,8 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/vault_main_page.svg').default,
     description: (
       <>
-        The preservation of knowledge is an important task that we as humans face, therefore this website. 
-        You can read more about the project here.
+        Something about the good-ness of accumulating information, this and that, you get it. Eventually this will be your ultimate guide to PC periphery
       </>
     ),
   },
@@ -18,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/community.svg').default,
     description: (
       <>
-        We welcome any of your additions to The Vault. For the upload requirements visit this page.
+        Any of your additions to The Vault are more than welcome. Soon there will be a how-to-contribute page
       </>
     ),
   },
@@ -27,8 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/opensource.svg').default,
     description: (
       <>
-        As usual most of our software and hardware prjects are opensourced.
-        You can find the code for the Vault <a href="https://github.com/11Customs/Vault">here</a>.
+        I try to make my projects as open suorce as possible. Even this website is open source
       </>
     ),
   },
