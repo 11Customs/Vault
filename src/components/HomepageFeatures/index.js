@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Knowledge Accumulated',
-    Svg: require('@site/static/img/vault_main_page.svg').default,
+    image: '/img/knowledge.svg',
     description: (
       <>
         Something about the good-ness of accumulating information, this and that, you get it. Eventually this will be your ultimate guide to PC periphery
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Community Effort',
-    Svg: require('@site/static/img/community.svg').default,
+    image: '/img/communityeffort.svg',
     description: (
       <>
         Any of your additions to The Vault are more than welcome. Soon there will be a how-to-contribute page
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Open Source',
-    Svg: require('@site/static/img/opensource.svg').default,
+    image: '/img/opensource.svg',
     description: (
       <>
         I try to make my projects as open suorce as possible. Even this website is open source
@@ -32,11 +32,12 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, image, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        {Svg && <Svg className={styles.featureSvg} role="img" />}
+        {image && <img src={image} className={styles.featureSvg} alt={title} />}
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
