@@ -1,6 +1,5 @@
-### *`"For great gameplay, one needs a great mousepad" - Sun Tzu, 500 B.C. (Probably)`*
+### *`mmm crush my balls with a mousepad I must, here we go`*
 
-![Imgur](https://i.imgur.com/gANbDda.png)
 ___
 - Size: 900x400x3
 - Edges: Stitched; Black or color of the art (depends on the edition, check the store page or references at the end of the page here)
@@ -11,7 +10,7 @@ ___
 
 Signature 1.0 is our first foray into the world of professional mousepads. The idea was to make a quality, jacquard pad, make it realatively affordable and create a lot of art variations. We ended up using our own manufacturing, after prototyping wiht X-Ray Pad. As a result we got a Mid/Speed pad, it depends on who you ask tbh. 
 ___
-## Cleaning guide from the manu:
+## Cleaning guide from the manufacturer:
 
 `It should be noted that no matter what material the mousepad is made of, it is not recommended to wash it in a washing machine, because the strong stirring and high-temperature drying during the machine washing process may cause irreversible damage to the mousepad. Similarly, when drying, avoid direct sunlight or high-temperature baking to prevent the mousepad from deforming, fading or accelerating aging.`
 
