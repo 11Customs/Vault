@@ -25,7 +25,6 @@ The PCB was finished and tested back in December 2023. As of December 2025 this 
 - **Firmware** — controller firmware for the board
 - **PCB** — board source files
 - **Plate** — switch plate files
-- **Soyuz65** — related case/layout files
 - **Misc** — odds and ends
 - **logs** — build/dev logs
 - Submodules: [MX_Alps_Hybrid](https://github.com/ai03-2725/MX_Alps_Hybrid), [marbastlib](https://github.com/ebastler/marbastlib), [random-keyboard-parts.pretty](https://github.com/ai03-2725/random-keyboard-parts.pretty)
