@@ -24,6 +24,8 @@
 }
 
 [data-theme='dark'] {
+  --ifm-font-color-base: #ECE9E9;
+  --ifm-background-color: #1D2121;
   --ifm-color-primary: #7182cb;
   --ifm-color-primary-dark: #5a6ec3;
   --ifm-color-primary-darker: #4e63be;
