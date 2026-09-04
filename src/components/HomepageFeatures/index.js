@@ -1,6 +1,7 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
@@ -17,7 +18,7 @@ const FeatureList = [
     image: '/img/communityeffort.svg',
     description: (
       <>
-        Any of your additions to The Vault are more than welcome. Soon there will be a how-to-contribute page
+        Any of your additions to The Vault are more than welcome. You can read up on how to contribute <Link to="/docs/general_knowledge/Contribution">here</Link>
       </>
     ),
   },
