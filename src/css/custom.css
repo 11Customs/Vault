@@ -4,6 +4,12 @@
  * work well for content-centric websites.
  */
 
+@font-face {
+  font-family: 'Gotfridus';
+  src: url('/fonts/Gotfridus.ttf') format('truetype');
+  font-display: swap;
+}
+
 /* You can override the default Infima variables here. */
 /* :root {
   --ifm-color-primary: #2e8555;
@@ -33,6 +39,20 @@
   --ifm-color-primary-light: #8896d3;
   --ifm-color-primary-lighter: #94a1d8;
   --ifm-color-primary-lightest: #b6bfe4;
+}
+
+.markdown h1,
+.theme-blog-post-title,
+.hero__title {
+  font-family: 'Gotfridus', 'Space Mono', monospace;
+}
+
+.hex-chip {
+  display: inline-block;
+  line-height: 0.953em;
+  padding: 0 0.3em 0.06em;
+  border-radius: 0;
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.25);
 }
 
 
