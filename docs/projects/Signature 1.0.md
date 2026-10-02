@@ -23,6 +23,7 @@ ___
 ## Reference gallery:
 
 - ### r/placeukraine 23 edition
+**Mostly owned by "friends and family". Is available per-request, reach out. Created to commemorate r/place 2023 and r/placeukraine's art there. It was an honor to stand side by side with you! *We are not associated with r/placeukraine in any official capacity, this is a fan project***
 
 ![Imgur](https://i.imgur.com/u1RJvWe.jpg "r/placeukraine 23 edition") 
 ![Imgur](https://i.imgur.com/hhT8liq.jpg "r/placeukraine 23 edition") 
